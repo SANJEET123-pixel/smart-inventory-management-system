@@ -2,8 +2,8 @@ import mysql.connector
 
 connection = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="root",
+    user="*****",
+    password="******",
     database="smart_inventory"
 )
 
